@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Mastering Algorithms with Python*](https://www.link.springer.com/book/10.1007/979-8-8688-1799-1) by Chenyang Shi (Apress, 2025).
+This repository accompanies [*Mastering Algorithms with Python*](https://link.springer.com/book/9798868817984) by Chenyang Shi (Apress, 2025).
 
 [comment]: #cover
 ![Cover image](979-8-8688-1798-4.jpg)
